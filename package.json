@@ -1,0 +1,15 @@
+{
+  "name": "stripe-plaid-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cltn39/stripe-plaid-setup.git",
+  "author": "gravitation <chisong@ucdavis.edu>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "stripe": "^7.9.1"
+  }
+}
